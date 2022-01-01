@@ -38,13 +38,17 @@ I have tested the program on a Linux system. In the maven configuration file (po
 ## Information about the code
 1. The package `src/main/java/planet/` contains all the classes directly related to the construction and simulation of the planets and fireworks.
 2. The package `src/main/java/renderengine/` contains the classes needed to communicate with and access OpenGL.
-3. The resource folder `src/main/resources/shaders/` contains the vertex, fragment and compute shaders for the program. Especially:
+3. The resource folder `src/main/resources/shaders/` contains the vertex and fragment shaders for the program. Especially:
    - `planet_vert.glsl` and `planet_frag.glsl` are the vertex and fragment shader to render the planets.
    - `firework_vert.glsl` and `firework_frag.glsl` are the vertex and fragment shader to render the fireworks.
 
 <a name="results"></a>
 ## Results
-to be added
+![brighter](https://user-images.githubusercontent.com/34870366/147842148-0ad1f046-f1d4-418a-baa2-260af4f6ede9.png)
+![sun](https://user-images.githubusercontent.com/34870366/147842123-7d2a3081-52c1-4776-a87b-8e454ab242b4.png)
+
+https://user-images.githubusercontent.com/34870366/147842153-4105554d-e973-4273-9028-4cb6d011b58e.mp4
+
 
 <a name="references"></a>
 ## References
