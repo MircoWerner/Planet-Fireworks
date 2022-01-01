@@ -1,6 +1,6 @@
 # Planet-Fireworks
 
-This program was created as a little project on New Year's Eve. It shows a small procedural generated earth-like planet from which fireworks are being launched into the air. It is written in Java and uses LWJGL to access OpenGL.
+This program was created as a little project on New Year's Eve. It shows a small procedural generated earth-like planet from which fireworks are launched into the air. It is written in Java and uses LWJGL to access OpenGL.
 
 ## Table of contents
 1. [ System Requirements ](#system)
